@@ -1,0 +1,23 @@
+h1 {font-family:bookman old style ;color:darkblue;background-color:lightgreen ;font-weight:bold;text-align:center;}
+
+h2 {font-family:bookman old style ;color:darkblue ;background-color:light blue ;font-weight:bold;text-align:center;}
+
+h3 {font-family:bookman old style ;color:darkblue; font-weight:bold;}
+
+h4 {font-family:bookman old style ;color:darkblue ;    text-indent: 50px;}
+	
+p, div, ul, ol ,li {font-family:times new roman ;margin-bottom: 1em;color:darkblue ;background-color:light blue;
+    text-indent: 50px; }
+
+img {border-radius:45 px;width:500px;height:500px; border: 4px blue;}
+
+hr {color:light blue;width:100%; height:15 px;}
+
+th, td {border:1px solid white;color:darkgreen;font-family:bookman old style;background-color:lightblue;text-align:center;border-spacing:15px;
+		  width:500px;height: 25px;}
+
+		  
+a {color:darkgreen;font-family:bookman old style;background-color:lightblue;text-align:center;border-collapse:separate;border-spacing:15px;
+		  width:50 px;height: 25px;}
+
+body {background-color:lightgreen}
