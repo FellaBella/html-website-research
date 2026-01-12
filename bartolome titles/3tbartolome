@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>3tbartolome</title>
+	<link rel="stylesheet" type="text/css" href="sstyless.css">
+</head>
+
+<body>
+<table>
+<tr>
+	<td><a href="title1bartolome.html" target="mainframe">Title One</a></td>
+	<td><a href="title2bartolome.html" target="mainframe">Title Two</a></td>
+	<td><a href="title3bartolome.html" target="mainframe">Title Three</a></td>
+</table>
+</body>
+</html>
