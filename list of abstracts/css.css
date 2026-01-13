@@ -18,6 +18,7 @@ th, td {border:1px solid white;color:darkgreen;font-family:bookman old style;bac
 
 		  
 a {color:darkgreen;font-family:bookman old style;background-color:lightblue;text-align:center;border-collapse:separate;border-spacing:15px;
-		  width:50 px;height: 25px;}
+		  width:50 px;height: 25px; text-decoration: none;}
+
 
 body {background-color:lightgreen}
