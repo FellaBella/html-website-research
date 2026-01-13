@@ -14,7 +14,7 @@ img {border-radius:45 px;width:500px;height:500px; border: 4px blue;}
 hr {color:light blue;width:100%; height:15 px;}
 
 th, td {border:1px solid white;color:darkgreen;font-family:bookman old style;background-color:lightblue;text-align:center;border-spacing:15px;
-		  width:500px;height: 25px;}
+		  width:500px;height: 25px; font-family: arial;}
 
 		  
 a {color:darkgreen;font-family:bookman old style;background-color:lightblue;text-align:center;border-collapse:separate;border-spacing:15px;
@@ -22,3 +22,4 @@ a {color:darkgreen;font-family:bookman old style;background-color:lightblue;text
 
 
 body {background-color:lightgreen}
+
